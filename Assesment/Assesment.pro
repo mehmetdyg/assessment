@@ -6,7 +6,7 @@ TEMPLATE = app
 TARGET = Assesment
 INCLUDEPATH += .
 
-QT += gui
+QT += gui sql
 QT += widgets
 
 # You can make your code fail to compile if you use deprecated APIs.
@@ -18,3 +18,5 @@ QT += widgets
 
 # Input
 SOURCES += main.cpp
+SOURCES += ADatabaseOperations.cpp
+

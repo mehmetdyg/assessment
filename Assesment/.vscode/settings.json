@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "qapplication": "cpp",
+        "qmainwindow": "cpp",
+        "qcoreapplication": "cpp",
+        "qaction": "cpp",
+        "qvariant": "cpp",
+        "qsql": "cpp",
+        "qsqlquery": "cpp",
+        "qsqlquerymodel": "cpp",
+        "qdialog": "cpp",
+        "qsqldatabase": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.stash": true,
+        "**/*.pdb": true
+    }
+}
